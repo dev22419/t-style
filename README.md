@@ -33,4 +33,4 @@ There are few step to install it so it is easy to install.
 
 If there is any mistake , tell me to fix it .
 
-![](file.png)
+View image in file.png
