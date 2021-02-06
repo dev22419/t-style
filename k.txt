@@ -7,6 +7,6 @@ printf "${b}"
 
 cowsay -f eyes //////
 
-figlet D G R
+figlet TERMUX
 
 printf "${r}"
