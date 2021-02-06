@@ -10,9 +10,9 @@ There are few step to install it so it is easy to install.
 
 *****Requirements*****
 
--figlet 
+- figlet 
 
--cowsay
+- cowsay
 
 *****Installation*****
 
