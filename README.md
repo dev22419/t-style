@@ -18,7 +18,7 @@ There are few step to install it so it is easy to install.
 
 *****Installation*****
 
-- git clone https://github.com/dev22419/t-style/blob/main/README.md
+- git clone https://github.com/dev22419/t-style
 
 - cd t-style
 
@@ -28,6 +28,6 @@ There are few step to install it so it is easy to install.
 
 *****Auto-install*****
 
-- apt-get install git && git clone https://github.com/dev22419/t-style/ && cd t-style && chmod +x run.sh && bash run.sh
+- apt-get install git && git clone https://github.com/dev22419/t-style && cd t-style && chmod +x run.sh && bash run.sh
 
 
