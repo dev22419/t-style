@@ -31,4 +31,4 @@ There are few step to install it so it is easy to install.
 - apt-get install git && git clone https://github.com/dev22419/t-style && cd t-style && chmod +x run.sh && bash run.sh
 
 
-If there is any mistake ask me .
+If there is any mistake , tell me to fix it .
