@@ -1,0 +1,12 @@
+clear
+
+b="\e[5m"
+r="\e[0m"
+
+printf "${b}"
+
+cowsay -f eyes //////
+
+figlet D G R
+
+printf "${r}"
