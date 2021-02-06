@@ -13,3 +13,15 @@ There are few step to install it so it is easy to install.
 -figlet 
 
 -cowsay
+
+*****Installation*****
+
+- cd t-style
+
+- chomd +x run.sh
+
+- ./run.sh
+
+*****Auto-install*****
+
+- 
